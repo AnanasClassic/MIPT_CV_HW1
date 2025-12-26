@@ -1,0 +1,3 @@
+model,split,accuracy,macro_f1,checkpoint
+cnn,val,0.230581,0.218526,artifacts/cnn/checkpoint_best.pt
+vit,val,0.791224,0.788831,artifacts/vit/checkpoint_best.pt
